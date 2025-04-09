@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m samson k/yohannes
+- # 👋 Hi, I’m samson
 -  I’m interested in programming ,
 
 
