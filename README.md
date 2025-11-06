@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m samson
--  I’m interested in programming ,
+-  I’m interested in programming , web development ,
 
 
 <!---
